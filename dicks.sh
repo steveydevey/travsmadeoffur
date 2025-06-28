@@ -3,3 +3,6 @@
 #
 #
 echo "steve loves peepepe"
+
+echo "but only on sundays"
+
